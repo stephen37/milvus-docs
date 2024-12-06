@@ -1694,12 +1694,6 @@
         "children": []
       },
       {
-        "label": "Full-Text Search with Milvus",
-        "id": "full_text_search_with_milvus.md",
-        "order": 11,
-        "children": []
-      },
-      {
         "label": "Explore More",
         "id": "explore-more",
         "order": 99,

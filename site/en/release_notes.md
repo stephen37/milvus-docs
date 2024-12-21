@@ -13,7 +13,7 @@ Release Date: December 20, 2024
 
 | Milvus version | Python SDK version | Java SDK version | Node.js SDK version |
 |----------------|--------------------|------------------|---------------------|
-| 2.4.18         | 2.4.11              | 2.4.8            | 2.4.9               |
+| 2.4.18         | 2.4.11              | 2.4.9            | 2.4.9               |
 
 Milvus 2.4.18 introduces customizable privilege groups and an enhanced Grant/Revoke API, significantly streamlining permission management. This version also brings a suite of built-in privilege groups for common operational scenarios, as well as a host of performance and stability improvements—ranging from CPU optimization to faster collection loading and more efficient indexing. In addition, critical bug fixes ensure a more resilient system, addressing issues like crash scenarios and synchronization failures. We recommend you upgrade to 2.4.18 to take advantage of these key enhancements and improved overall reliability.
 

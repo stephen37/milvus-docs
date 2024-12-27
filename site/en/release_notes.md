@@ -13,7 +13,7 @@ Release Date: December 26, 2024
 
 | Milvus version | Python SDK version | Java SDK version | Node.js SDK version |
 |----------------|--------------------|------------------|---------------------|
-| 2.4.19         | 2.4.11              | 2.4.9            | 2.4.9               |
+| 2.4.19         | 2.4.13              | 2.4.9            | 2.4.9               |
 
 Milvus 2.4.19 focuses on fixing issues in RBAC, Balancer, and loading processes, while also introducing several performance enhancements in areas such as PartitionKey Deletion and hybrid searching. We highly recommend upgrading to this version for increased stability and reliability.
 
